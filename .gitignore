@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+data/usage.txt
+build/
+dist/
+test/gwbasicdir
